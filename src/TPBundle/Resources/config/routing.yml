@@ -1,0 +1,3 @@
+tp_homepage:
+    path:     /
+    defaults: { _controller: TPBundle:Default:index }
